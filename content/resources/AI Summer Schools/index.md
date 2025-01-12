@@ -6,4 +6,6 @@ tags:
 external_link: https://github.com/hazratali/awesome-ai-summerschool
 banner: 'summer.png'
 cover: 'summer.png'
+image: 
+  filename: 'summer.png' 
 ---
