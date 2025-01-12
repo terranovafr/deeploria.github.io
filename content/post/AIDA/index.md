@@ -1,8 +1,7 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: AIDA
+summary: The AI Doctoral Academy allows UL students to become AIDA members and access a wide array of AI Short Courses, AI Excellence Lecture Series, and provide certificates of attendance.
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - Formation
+external_link: https://www.i-aida.org
 ---
