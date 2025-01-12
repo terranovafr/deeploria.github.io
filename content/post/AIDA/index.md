@@ -4,4 +4,6 @@ summary: The AI Doctoral Academy allows UL students to become AIDA members and a
 tags:
   - Formation
 external_link: https://www.i-aida.org
+image: 
+  filename: 'AIDA.png' 
 ---
