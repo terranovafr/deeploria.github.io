@@ -4,7 +4,6 @@ summary: A continuously updated list of summer schools in AI-related topics with
 tags:
   - Formation
 external_link: https://github.com/hazratali/awesome-ai-summerschool
-banner:
-  caption: ''
-  image: 'summer.png'
+banner: 'summer.png'
+cover: 'summer.png'
 ---
