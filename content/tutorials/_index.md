@@ -8,4 +8,14 @@ view: compact
 banner:
   caption: ''
   image: ''
+
+sections:
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="../contact/" cta_text="Propose a tutorial and join our network →" %}}
+    design:
+      columns: '1'
 ---

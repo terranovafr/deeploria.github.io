@@ -11,7 +11,7 @@ sections:
       #  DeepLorIA
       image:
         filename: DeepLorIA_logo2.jpg
-      text: Welcome to **DeepLorIA**, an initiative at LORIA to enhance AI knowledge and collaboration across research teams. This channel aims to allow the exchange of AI knowledge and share valuable insights to enhance the impact of both current and future projects!
+      text: Welcome to **DeepLorIA**, a LORIA initiative to grow AI knowledge and encourage teamwork among research groups. This channel is here to share resources and organize tutorials aiming to exchange knowledge and boost the success of our current projects!  
   - block: markdown
     content:
       title:
