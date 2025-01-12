@@ -19,6 +19,7 @@ sections:
       subtitle:
       text: |
         {{% cta cta_link="./tutorials/" cta_text="Check our tutorials →" %}}
+        {{% cta cta_link="./resources/" cta_text="Check our resources on AI →" %}}
     design:
       columns: '1'
 ---
