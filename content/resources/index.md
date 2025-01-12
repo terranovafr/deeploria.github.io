@@ -29,7 +29,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./contact/" cta_text="Help us to broadcast more opportunities →" %}}
+        {{% cta cta_link="../contact/" cta_text="Help us to broadcast more opportunities →" %}}
     design:
       columns: '1'
 ---
