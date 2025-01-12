@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DeepLorIA # Website name
-baseURL: 'https://terranovafr.github.io/deeploria.github.io/' # Website URL
+baseURL: 'https://deeploria.netlify.com/' # Website URL
 
 ############################
 ## LANGUAGE
