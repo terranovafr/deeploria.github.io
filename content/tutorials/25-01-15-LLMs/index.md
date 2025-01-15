@@ -8,4 +8,6 @@ This tutorial focuses on the principles and practices of fine-tuning Large Langu
 - Time: Theory: 14:00 - 14:50 / Coffee 14:50 - 15:10 / Lab 15:10 - 16:00
 - Location: Nancy-Salle A008 Jean Legras
 - Instructor: Barbara Gendron, Ph.D. Candidate
-- Link to Sign-Up: <a href="https://sondages.inria.fr/index.php/281585?lang=en">Register Here</a>
+<p align="center">
+<a href="https://github.com/B-Gendron/tutorial-deeploria" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Material</a>
+</p>
