@@ -1,6 +1,6 @@
 ---
 title: Convolutional Neural Networks - A Hands-On Guide to Image Processing
-date: 2024-03-19
+date: 2025-03-19
 ---
 This session introduces convolutional neural networks (CNNs) and their use in image processing. You’ll learn the basics, like convolutional layers and pooling, as well as advanced techniques such as data augmentation and transfer learning. Using TensorFlow, you’ll get hands-on experience building and training CNN models on real image datasets. Whether you’re new to CNNs or looking to improve your skills, this session will help you confidently work with image data and grow your expertise in image processing!
 
