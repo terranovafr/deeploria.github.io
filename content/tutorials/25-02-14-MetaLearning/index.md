@@ -1,6 +1,6 @@
 ---
 title: Meta-Learning Essentials - A Hands-On Approach
-date: 2025-02-14
+date: 2025-01-25
 ---
 
 This session introduces meta-learning—'learning to learn'—which focuses on creating models that can quickly adapt to new tasks by leveraging prior knowledge. Participants will explore the fundamental concepts of meta-learning and examine key techniques such as optimization-based methods like MAML, metric-based approaches like Prototypical Networks, and model-based strategies like HyperNetworks. Additionally, the tutorial includes a hands-on session where attendees will use specialized libraries to implement and experiment with these meta-learning algorithms, providing practical experience in designing adaptive and efficient machine learning models.
