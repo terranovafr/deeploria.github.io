@@ -1,6 +1,6 @@
 ---
 title: Graph Neural Networks – A Hands-On Guide to Graph Data Processing
-date: 2025-01-26
+date: 2025-01-28
 ---
 This session introduces Graph Neural Networks (GNNs) and their innovative approach to understanding complex graphs. 
 Dive into the core concepts—from graph representations and message passing to pooling and cutting-edge attention mechanisms. 
