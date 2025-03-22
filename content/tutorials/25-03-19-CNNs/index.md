@@ -8,4 +8,6 @@ This session introduces convolutional neural networks (CNNs) and their use in im
 - Time: Theory: 14:00 - 14:50 / Coffee 14:50 - 15:10 / Lab 15:10 - 16:00
 - Location: Nancy-Salle A008 Jean Legras
 - Instructor: Khadidja Wissal Baki, Ph.D. Candidate
-- Link to Sign-Up: <a href="https://sondages.inria.fr/index.php/147322?lang=en">Register Here</a>
+<p align="center">
+<a href="https://gitlab.inria.fr/fterrano/deeploria/-/tree/main/Tutorials/4.%20Convolutional%20Neural%20Networks%20-%20A%20Hands-On%20Guide%20to%20Image%20Processing?ref_type=heads" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Material</a>
+</p>
