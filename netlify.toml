@@ -20,8 +20,3 @@
   [plugins.inputs]
     debug = true
 
-[[redirects]]
-    from = "/*"
-    to = "https://deeploria.loria.fr"
-    status = 301
-    force = true
