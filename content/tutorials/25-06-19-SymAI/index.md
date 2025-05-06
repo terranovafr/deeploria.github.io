@@ -1,6 +1,6 @@
 ---
 title: Mining patterns in tabular data - A Symbolic AI approach
-date: 2025-01-19
+date: 2025-01-29
 ---
 This session will cover Symbolic AI, which is a vast research field operating human-readable knowledge representations. In particular, we will focus on Pattern Structures formalism that provides a unified language to efficiently mine patterns in tables containing numbers, categories, ngrams, graphs, and other types of data. Such patterns can then be used for mining explainable-by-design implications, clusterings, and multiclass classifiers.
 The hand-on-section will explore a novel Paspailleur Python package (developed in Loria, set to release in May 2025) that can solve all aforementioned tasks for all aforementioned data.
