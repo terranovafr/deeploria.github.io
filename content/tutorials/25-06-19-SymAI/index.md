@@ -9,4 +9,6 @@ The hand-on-section will explore a novel Paspailleur Python package (developed i
 - Time: Theory: 14:00 - 14:50 / Coffee 14:50 - 15:10 / Lab 15:10 - 16:00
 - Location: Nancy-Salle A008 Jean Legras
 - Instructor: Egor Dudyrev, Ph.D. Candidate
-- Link to Sign-up: <a href="https://sondages.inria.fr/index.php/715664?lang=en">Sign-up here!</a>
+<p align="center">
+<a href="https://gitlab.inria.fr/fterrano/deeploria/-/tree/main/Tutorials/6.%20Mining%20patterns%20in%20tabular%20data%20-%20A%20Symbolic%20AI%20approach" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Material</a>
+</p>
