@@ -10,5 +10,7 @@ In the presentation session, you’ll learn the basics of Graph Neural Networks 
 - Location: Nancy-Salle A008 Jean Legras
 - Instructor: Mohammed Khatbane, Ph.D. Candidate
 <p align="center">
-<a href="https://sondages.inria.fr/index.php/638399?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here</a>
+<a href="https://sondages.inria.fr/index.php/638399?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (LORIA)</a>
+<a href="https://sondages.inria.fr/index.php/326444?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (Online)</a>
 </p>
+

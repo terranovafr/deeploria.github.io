@@ -9,5 +9,6 @@ Reinforcement Learning (RL) enables agents to learn optimal behaviors through tr
 - Location: Nancy-Salle A008 Jean Legras
 - Instructor: Franco Terranova, Ph.D. Candidate
 <p align="center">
-<a href="https://sondages.inria.fr/index.php/645148?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here</a>
+<a href="https://sondages.inria.fr/index.php/645148?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (LORIA)</a>
+<a href="https://sondages.inria.fr/index.php/468124?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (Online)</a>
 </p>
