@@ -9,6 +9,6 @@ Reinforcement Learning (RL) enables agents to learn optimal behaviors through tr
 - Location: Nancy-Salle A008 Jean Legras
 - Instructor: Franco Terranova, Ph.D. Candidate
 <p align="center">
-<a href="https://sondages.inria.fr/index.php/645148?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (LORIA)</a>
-<a href="https://sondages.inria.fr/index.php/468124?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (Online)</a>
+<a href="https://gitlab.inria.fr/fterrano/deeploria/-/tree/main/Tutorials/7.%20Meta-Reinforcement%20Learning%20-%20Boosting%20RL%20Generalization?ref_type=heads" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Material</a>
+<a href="https://youtu.be/k9VhXqVGkII" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Recording</a>
 </p>
