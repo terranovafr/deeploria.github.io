@@ -17,6 +17,9 @@ sections:
       title:
       subtitle:
       text: |
+        **Organizer:** Franco Terranova, Ph.D. Candidate, RESIST Team @ LORIA  
+        **Other Members:** Khadidja Wissal Baki, Ph.D. Candidate, MOSAIK Team @ LORIA
+        
         {{% cta cta_link="./tutorials/" cta_text="Check our tutorials →" %}}
         {{% cta cta_link="./contact/" cta_text="Contact us to propose a tutorial →" %}}        
         {{% cta cta_link="./resources/" cta_text="Check our resources regarding opportunities on AI →" %}}
