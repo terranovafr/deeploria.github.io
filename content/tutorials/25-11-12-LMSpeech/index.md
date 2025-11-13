@@ -7,8 +7,8 @@ After a brief overview of the history and motivation behind language modeling ap
 - Date: November 12, 2025 
 - Time: Theory: 14:00 - 14:50 / Coffee 14:50 - 15:10 / Lab 15:10 - 16:00
 - Location: Nancy-Salle A008 Jean Legras
-- Instructor: Yaya Si, Ph.D. Candidate
+- Instructor: Yaya Sy, Ph.D. Candidate
 <p align="center">
-<a href="https://sondages.inria.fr/index.php/225321?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (LORIA)</a>
-<a href="https://sondages.inria.fr/index.php/891532?lang=en" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Register Here (Online)</a>
+<a href="https://gitlab.inria.fr/fterrano/deeploria/-/tree/main/Tutorials/9.%20Language%20Modeling%20Approaches%20to%20Speech%20Generation%20for%20Low-Resource%20Languages" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Material</a>
+<a href="https://www.youtube.com/@FrancoTerranova-LORIA" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; margin: 10px 5px; cursor: pointer;">Recording</a>
 </p>
